@@ -1,0 +1,20 @@
+{
+  "name": "devops-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khusipandey/devops-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khusipandey/devops-demo/issues"
+  },
+  "homepage": "https://github.com/khusipandey/devops-demo#readme",
+  "description": ""
+}
